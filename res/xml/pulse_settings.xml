@@ -79,7 +79,7 @@
             settings:units="dp"
             android:dependency="pulse_fading_bars_category"/>
 
-        <ccom.liquid.liquidlounge.preferences.CustomSeekBarPreference
+        <com.liquid.liquidlounge.preferences.CustomSeekBarPreference
             android:key="pulse_empty_block_size"
             android:title="@string/pulse_empty_block_size"
             android:max="4"
