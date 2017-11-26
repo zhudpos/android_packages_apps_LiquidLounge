@@ -18,7 +18,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- App title -->
-    <string name="app_settings_title">Liquid 扩展设置</string>
+    <string name="app_settings_title">高级设置</string>
 
     <!-- Buttons -->
     <string name="buttons_title">按钮</string>
