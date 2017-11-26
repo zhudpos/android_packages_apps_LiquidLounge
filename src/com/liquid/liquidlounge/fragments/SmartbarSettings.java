@@ -212,7 +212,7 @@ public class SmartbarSettings extends SettingsPreferenceFragment implements
             case DIALOG_RESET_CONFIRM:
             case DIALOG_RESTORE_PROFILE:
             case DIALOG_SAVE_PROFILE:
-                return MetricsProto.MetricsEvent.ABC;
+                return MetricsProto.MetricsEvent.LIQUID;
             default:
                 return 0;
         }
